@@ -36,7 +36,7 @@ A Discord bot to **decide movie nights without the drama**! Create movie lists, 
 
 ```bash
 
-git clone https://github.com/azraell/movie-pals-bot.git
+git clone https://github.com/Azrael654/AZ-Movie.git
 
 cd movie-pals-bot
 
